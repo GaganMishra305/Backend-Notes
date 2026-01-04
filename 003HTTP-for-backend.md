@@ -21,8 +21,8 @@
 
 * Methods:
     - IDEMPOTENT ( Get, Put[replaces the data], Delete )
-    - NON-IDEMPOTENT ( Post )
-    - Patch : appends the data
+    - NON-IDEMPOTENT ( Post[creates new data] )
+    - Patch : [appends the data]
     - Options: used by CORS {browser follow same origin policy}
 
 * CORS: 
