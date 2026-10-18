@@ -1,32 +1,41 @@
 # The topics that will be studied are:
-1. A high-level backend understanding
-2. HTTP Protocol
-3. Routing
-4. Serialization and deserialization
-5. Authentication and Authorization
-6. Validation and Transformation
-7. Middlewares
-8. Request Context
-9. Handlers and Controllers
-10. CRUD deepdive
-11. REST best practices
-12. Databases
-13. Business Logic Layer
-14. Caching
-15. Translational emails
-16. Tasks queueing and scheduling
-17. Elasticsearch
-18. Error Handleing
-19. Config management
-20. Logging, monitoring and observability
-21. Graceful shutdown
-22. Security
-23. Scaling and performance
-24. Concurrency and Parallelism
-25. Object Storage and large files
-26. Realtime backend systems
-27. Testing and code quality
-28. 12 factor app principles
-29. OpenAPI standard
-30. Webhooks
-31. Devops for backend engineers
+1. A high-level backend understanding [x]
+2. HTTP Protocol [x]
+3. Routing [x]
+4. Serialization and deserialization [x]
+5. Authentication and Authorization [x]
+6. Validation and Transformation [x]
+7. Middlewares [x]
+8. Request Context [x]
+9. Handlers and Controllers [x]
+10. CRUD deepdive [x]
+11. REST best practices [x]
+12. Databases [x]
+13. Business Logic Layer [x]
+14. Caching [x]
+15. Translational emails [x]
+16. Tasks queueing and scheduling [x]
+17. Elasticsearch [x]
+18. Error Handleing [x]
+19. Config management [x]
+20. Logging, monitoring and observability [x]
+21. Graceful shutdown [x]
+22. Security [x]
+23. Scaling and performance [x]
+24. Concurrency and Parallelism [x]
+25. Object Storage and large files [x]
+26. Realtime backend systems [x]
+27. Testing and code quality [x]
+28. 12 factor app principles [x]
+29. OpenAPI standard [x]
+30. Webhooks [x]
+31. Devops for backend engineers [x]
+32. Rate limiting and throttling [x]
+33. Distributed caching patterns [x]
+34. Message brokers (Kafka vs RabbitMQ) [x]
+35. Database sharding and partitioning [x]
+36. Idempotency in distributed systems [x]
+37. Modular monolith vs microservices [x]
+38. gRPC and Protocol Buffers [x]
+39. Transactional outbox pattern [x]
+40. Circuit breakers and resilience [x]
